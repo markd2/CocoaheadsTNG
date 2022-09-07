@@ -15,7 +15,7 @@ Two ideas:
     to update their info.  
     - https://github.com/NSCoderNight/NSCoderNight
     - Organizers probably are familiar with editing stuff like YAML and doing PRs
-    - Still need to get permission to use their code (or start a clean reimplementation)
+    - ~~Still need to get permission to use their code (or start a clean reimplementation)~~ Permission granted, but their CI pipeline has undergone bitrot.
 
   * @hsoi has had success with self-hosting (on A2) Wordpress - https://blog.hsoi.com/2022/08/23/is-this-thing-on/ . 
     - it supports accounts. Can probably write a plugin that takes meeting locations and
