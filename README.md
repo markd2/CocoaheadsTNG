@@ -17,3 +17,8 @@ Two ideas:
     - Organizers probably are familiar with editing stuff like YAML and doing PRs
     - Still need to get permission to use their code (or start a clean reimplementation)
 
+  * @hsoi has had success with self-hosting (on A2) Wordpress - https://blog.hsoi.com/2022/08/23/is-this-thing-on/ . 
+    - it supports accounts. Can probably write a plugin that takes meeting locations and
+      generates the google map
+    - Wordpress has been around a long time, there's probably a Plugin For That.
+
