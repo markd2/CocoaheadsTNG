@@ -4,7 +4,7 @@ Updating CocoaHead.org
 
 Slack discussion at https://cocoaheads.slack.com/archives/C08L3EGF2/p1661702063109989
 
-Two ideas:
+Some ideas:
   * Swift on the server / Vapor / porting or migrating the existing Cocoaheads.org schema
     - more conventional website experience
     - requires learning Vapor
