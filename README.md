@@ -21,4 +21,8 @@ Some ideas:
     - it supports accounts. Can probably write a plugin that takes meeting locations and
       generates the google map
     - Wordpress has been around a long time, there's probably a Plugin For That.
+    
+  * WarriorBob suggested starting with a simple Wiki.
+    - known technology
+    - may be wikis that support user-scoped editing
 
